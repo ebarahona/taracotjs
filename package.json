@@ -21,7 +21,7 @@
     "glob": "^4.2.1",
     "gm": "^1.16.0",
     "html-entities": "^1.1.1",
-    "html-to-text": "^0.1.0",
+    "html-to-text": "^2.0.0",
     "i18n-2": "^0.4.6",
     "iconv-lite": "^0.4.8",
     "merge": "^1.2.0",
