@@ -4,7 +4,7 @@
   "description": "TaracotJS CMS: the simple content management system based on Node.js",
   "main": "app.js",
   "dependencies": {
-    "archiver": "^0.10.0",
+    "archiver": "^0.11.0",
     "async": "^0.9.0",
     "body-parser": "^1.0.2",
     "captchapng": "^0.0.1",
@@ -21,7 +21,7 @@
     "glob": "^4.2.1",
     "gm": "^1.16.0",
     "html-entities": "^1.1.1",
-    "html-to-text": "^0.1.0",
+    "html-to-text": "^5.1.0",
     "i18n-2": "^0.4.6",
     "iconv-lite": "^0.4.8",
     "merge": "^1.2.0",
@@ -35,10 +35,10 @@
     "redis": "^0.10.2",
     "request": "^2.51.0",
     "snowball": "^0.3.1",
-    "socket.io": "^1.1.0",
+    "socket.io": "^2.0.0",
     "string": "^3.1.1",
     "unzip2": "^0.2.5",
-    "winston": "^0.7.3"
+    "winston": "^0.8.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
